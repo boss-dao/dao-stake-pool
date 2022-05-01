@@ -1,0 +1,1 @@
+# boss-stake-pool

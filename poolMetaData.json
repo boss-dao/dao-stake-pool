@@ -1,6 +1,6 @@
 {
-"name": "Boss Pool",
-"description": "Boss DAO's Stake Pool. Stake for ADA, EXEC, and other token rewards!",
+"name": "DAO Pool",
+"description": "The DAO Pool: Powered by Perplexus. Delegate to support decentralization and the Cardano ecosystem.",
 "ticker": "DAO",
-"homepage": "https://info.bossdao.io"
+"homepage": "https://perplexus.io"
 }

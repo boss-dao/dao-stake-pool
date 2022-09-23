@@ -1,1 +1,1 @@
-# boss-stake-pool
+# DAO Pool
